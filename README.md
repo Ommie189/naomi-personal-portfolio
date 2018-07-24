@@ -5,7 +5,7 @@
 {This is a detailed description of myself, including my whole educational background, personal interests and skills.}
 ## Setup/Installation Requirements
 * Go to the internet.
-* Click the following link
+* Click the following link https://ommie189.github.io/naomi-personal-portfolio/
 * The link will navigate you to where the project is.
 {As I used HTML and CSS to build this code, Atom or Visual Studio need to be installed.}
 ## Known Bugs
@@ -25,7 +25,7 @@
 ### License
 *{MIT License
 
-Copyright (c) [year] [Naomi Mukuhi]
+Copyright (c) [2018] [Naomi Mukuhi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
