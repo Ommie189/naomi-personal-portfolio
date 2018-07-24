@@ -1,24 +1,33 @@
-# {Naomi Mukuhi PortfolioLandingPage}
+# {Naomi Mukuhi Portfolio Page}
 #### {Portfolio of myself}, {29 June,2018}
 #### By **{Naomi Mukuhi}**
 ## Description
 {This is a detailed description of myself, including my whole educational background and personal interests and skills.}
 ## Setup/Installation Requirements
-* Atom
-* Github
-* Terminal
-* Git
-{As I used HTML and CSS to build this code, Atom or Visual Studio need to be installed.}
+* Go to the internet.
+* Click the following link
+* The link will navigate you to where the project is. {As I used HTML and CSS to build this code, Atom or Visual Studio need to be installed.
+
 ## Known Bugs
 {There are no issues that would impact use of this application. }
 ## Technologies Used
 {I used HTML and CSS in making my portfolio page.
+
+## Deployment
+* Creating a gh-pages branch on the local terminal.
+* Switching from master to the gh-pages branch.
+* Pushing all the code to master from the gh-pages branch.
+* Logging in to my git hub account and going to this project repository.
+* Navigating downwards in the settings bar and copying the * link provided.
+* Pasting the copied link on new tab on my web browser.
+
+
 ## Support and contact details
 {If you run into any issues or have questions, ideas or concerns kindly contact me at naomikuhi189@gmail.com or feel free to make a contribution to the code.}
 ### License
 *{MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [year] [Naomi Mukuhi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
